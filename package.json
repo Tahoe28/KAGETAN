@@ -1,6 +1,6 @@
 {
   "name": "instagram",
-  "version": "4.0",
+  "version": "1.0.0",
   "description": "Instagram Unfollow Not FollowBack",
   "main": "index.js",
   "dependencies": {
